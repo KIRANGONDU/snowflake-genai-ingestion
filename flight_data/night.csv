@@ -1,0 +1,10 @@
+index,airline,flight,source_city,departure_time,stops,arrival_time,destination_city,class,duration,days_left
+40,Air_India,AI-504,Delhi,Night,one,Morning,Mumbai,Economy,11,1
+44,Air_India,AI-479,Delhi,Night,one,Afternoon,Mumbai,Economy,17.75,1
+50,Air_India,AI-540,Delhi,Night,one,Morning,Mumbai,Economy,11.42,1
+58,Indigo,6E-369,Delhi,Night,one,Morning,Mumbai,Economy,10.42,1
+69,Vistara,UK-871,Delhi,Night,one,Afternoon,Mumbai,Economy,17.92,1
+70,Vistara,UK-871,Delhi,Night,one,Night,Mumbai,Economy,26.42,1
+71,Air_India,AI-762,Delhi,Night,one,Afternoon,Mumbai,Economy,16.17,1
+96,Air_India,AI-762,Delhi,Night,one,Night,Mumbai,Economy,23.83,1
+98,Air_India,AI-839,Delhi,Night,one,Night,Mumbai,Economy,26.5,1
