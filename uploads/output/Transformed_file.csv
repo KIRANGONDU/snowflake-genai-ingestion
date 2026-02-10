@@ -1,7 +1,7 @@
 customer_id,firstname,lastname,gender,dob,email,phone,city,country,load_date
-E101,Ram,Prasad,Male,1994-05-12,ram.prasad@gmail.com,9876543210,Hyderabad,,2025-12-29
-E102,Sita,Devi,Female,1992-11-23,sita.devi@gmail.com,9123456789,Mumbai,,2025-12-29
-E201,Siva,Kumar,Male,1991-07-15,,9988776655,,,2025-12-29
-E202,Anil,Raj,Male,1989-02-10,,8877665544,,,2025-12-29
-E301,Priya,Sharma,Female,1995-03-21,priya@gmail.com,7766554433,Bangalore,,2025-12-29
-E302,Rahul,Mehta,Male,1990-09-11,rahul@gmail.com,6655443322,Mumbai,,2025-12-29
+E101,Ram,Prasad,Male,1994-05-12,ram.prasad@gmail.com,9876543210,Hyderabad,,2026-01-05
+E102,Sita,Devi,Female,1992-11-23,sita.devi@gmail.com,9123456789,Mumbai,,2026-01-05
+E201,Siva,Kumar,Male,1991-07-15,,9988776655,,,2026-01-05
+E202,Anil,Raj,Male,1989-02-10,,8877665544,,,2026-01-05
+E301,Priya,Sharma,Female,1995-03-21,priya@gmail.com,7766554433,Bangalore,,2026-01-05
+E302,Rahul,Mehta,Male,1990-09-11,rahul@gmail.com,6655443322,Mumbai,,2026-01-05
